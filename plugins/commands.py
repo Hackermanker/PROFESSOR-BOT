@@ -40,7 +40,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton("➕️𝗔𝗗𝗗 𝗠𝗘 𝗧𝗢 𝗨𝗥 𝗚𝗥𝗢𝗨𝗣𝗦➕️", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
-            InlineKeyboardButton("𝗦𝗘𝗔𝗥𝗖𝗛🔍", switch_inline_query_current_chat=''), 
+            InlineKeyboardButton("𝗠𝗢𝗩𝗜𝗘𝗦🔍", url="https://t.me/+Z-yexpYXWyZlZDE1"), 
             InlineKeyboardButton("𝗨𝗣𝗗𝗔𝗧𝗘𝗦", url="https://t.me/Astra_botz")
             ],[      
             InlineKeyboardButton("𝗛𝗘𝗟𝗣", callback_data="help"),
@@ -90,7 +90,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton("➕️𝗔𝗗𝗗 𝗠𝗘 𝗧𝗢 𝗨𝗥 𝗚𝗥𝗢𝗨𝗣𝗦➕️", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
-            InlineKeyboardButton("𝗦𝗘𝗔𝗥𝗖𝗛🔍", switch_inline_query_current_chat=''), 
+            InlineKeyboardButton("𝗠𝗢𝗩𝗜𝗘𝗦🔍", url="https://t.me/+Z-yexpYXWyZlZDE1"), 
             InlineKeyboardButton("𝗨𝗣𝗗𝗔𝗧𝗘𝗦", url="https://t.me/Astra_botz")
             ],[      
             InlineKeyboardButton("𝗛𝗘𝗟𝗣", callback_data="help"),
